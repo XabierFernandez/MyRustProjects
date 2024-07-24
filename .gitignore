@@ -10,3 +10,4 @@ Cargo.lock
 **/*.rs.bk
 guessing_game/target/.rustc_info.json
 guessing_game/target/.rustc_info.json
+guessing_game/target/.rustc_info.json
