@@ -11,3 +11,5 @@ Cargo.lock
 guessing_game/target/.rustc_info.json
 guessing_game/target/.rustc_info.json
 guessing_game/target/.rustc_info.json
+foo/target/.rustc_info.json
+guessing_game/target/.rustc_info.json
